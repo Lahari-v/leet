@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Lahari-v/leet/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Lahari-v/leet/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Lahari-v/leet/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Lahari-v/leet/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
