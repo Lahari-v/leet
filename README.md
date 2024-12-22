@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Lahari-v/leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lahari-v/leet/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Lahari-v/leet/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Lahari-v/leet/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/Lahari-v/leet/tree/master/0605-can-place-flowers) |
 | [0898-transpose-matrix](https://github.com/Lahari-v/leet/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/Lahari-v/leet/tree/master/0941-sort-array-by-parity) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Lahari-v/leet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Lahari-v/leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lahari-v/leet/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Lahari-v/leet/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/Lahari-v/leet/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/Lahari-v/leet/tree/master/1256-rank-transform-of-an-array) |
 ## Prefix Sum
