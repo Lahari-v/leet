@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Lahari-v/leet/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/Lahari-v/leet/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/Lahari-v/leet/tree/master/0978-valid-mountain-array) |
+| [1256-rank-transform-of-an-array](https://github.com/Lahari-v/leet/tree/master/1256-rank-transform-of-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Lahari-v/leet/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Lahari-v/leet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Lahari-v/leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lahari-v/leet/tree/master/0349-intersection-of-two-arrays) |
+| [1256-rank-transform-of-an-array](https://github.com/Lahari-v/leet/tree/master/1256-rank-transform-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Lahari-v/leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lahari-v/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/Lahari-v/leet/tree/master/0941-sort-array-by-parity) |
+| [1256-rank-transform-of-an-array](https://github.com/Lahari-v/leet/tree/master/1256-rank-transform-of-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
