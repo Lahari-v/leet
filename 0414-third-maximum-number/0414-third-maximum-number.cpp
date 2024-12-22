@@ -1,22 +1,16 @@
 class Solution {
 public:
     int thirdMax(vector<int>& nums) {
-        set<int> st;
-        vector<int> res;
+        sort(nums.begin(), nums.end());
+        vector<int> ans;
         for(int i=0; i<nums.size(); i++) {
-            st.insert(nums[i]);
+            if(ans.empty() || ans.back() != nums[i])
+                ans.push_back(nums[i]);
         }
-        for(int i : st) {
-            res.push_back(i);
-        }
-        
-        int n = res.size();
-        for(int i=0; i<n; i++) {
-            cout<<res[i];
-        }
-        if(n < 3) {
-            return res[n-1];
-        }
-        return res[n-3];
+        int n = ans.size();
+        if(n<3)
+            return ans[n-1];
+        else
+            return ans[n-3];
     }
 };
