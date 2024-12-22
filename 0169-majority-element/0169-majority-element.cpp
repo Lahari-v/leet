@@ -12,8 +12,7 @@ public:
                 count++;
             else 
                 count--;
-        }
-        cout<<count;
+        } 
         return candidate;
     }
 };
