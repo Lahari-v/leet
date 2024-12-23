@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Lahari-v/leet/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Lahari-v/leet/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lahari-v/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1511-count-number-of-teams](https://github.com/Lahari-v/leet/tree/master/1511-count-number-of-teams) |
 ## Memoization
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/Lahari-v/leet/tree/master/0978-valid-mountain-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Lahari-v/leet/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Lahari-v/leet/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1511-count-number-of-teams](https://github.com/Lahari-v/leet/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Lahari-v/leet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/Lahari-v/leet/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
@@ -109,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Lahari-v/leet/tree/master/0169-majority-element) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Lahari-v/leet/tree/master/1511-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Lahari-v/leet/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
