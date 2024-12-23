@@ -1,18 +1,17 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        unordered_map<char, int> mp1; 
-        for(char c : magazine) {
-            mp1[c]++;
+        unordered_map<int, int> mp; 
+        for(int i=0; i<magazine.size(); i++) {
+            mp[magazine[i] - 'a']++;
         }
-        for(char c : ransomNote) {
-            mp1[c]--;
+        for(int i=0; i<ransomNote.size(); i++) {
+            mp[ransomNote[i] - 'a']--;
         }
-        for(char i='a'; i<='z'; i++) {
-            if(mp1[i] < 0) {
+        for(int i=0; i<26; i++) {
+            if(mp[i] < 0) {
                 return false;
-            }
-            cout<<mp1[i];
+            } 
         }
         return true;
     }
