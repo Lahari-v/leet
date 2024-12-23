@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Lahari-v/leet/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Lahari-v/leet/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Lahari-v/leet/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Lahari-v/leet/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Lahari-v/leet/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Lahari-v/leet/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Lahari-v/leet/tree/master/0074-search-a-2d-matrix) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lahari-v/leet/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Lahari-v/leet/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Lahari-v/leet/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Lahari-v/leet/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Lahari-v/leet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Lahari-v/leet/tree/master/0283-move-zeroes) |
