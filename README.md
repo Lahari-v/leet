@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Lahari-v/leet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Lahari-v/leet/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Lahari-v/leet/tree/master/0349-intersection-of-two-arrays) |
+| [0874-backspace-string-compare](https://github.com/Lahari-v/leet/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/Lahari-v/leet/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Lahari-v/leet/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Greedy
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lahari-v/leet/tree/master/0054-spiral-matrix) |
+| [0874-backspace-string-compare](https://github.com/Lahari-v/leet/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Lahari-v/leet/tree/master/0898-transpose-matrix) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/Lahari-v/leet/tree/master/1525-queries-on-a-permutation-with-key) |
 ## Counting
@@ -167,8 +169,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lahari-v/leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Lahari-v/leet/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/Lahari-v/leet/tree/master/0383-ransom-note) |
+| [0874-backspace-string-compare](https://github.com/Lahari-v/leet/tree/master/0874-backspace-string-compare) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lahari-v/leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Lahari-v/leet/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
