@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Lahari-v/leet/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Lahari-v/leet/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1511-count-number-of-teams](https://github.com/Lahari-v/leet/tree/master/1511-count-number-of-teams) |
+| [1525-queries-on-a-permutation-with-key](https://github.com/Lahari-v/leet/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Lahari-v/leet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/Lahari-v/leet/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Lahari-v/leet/tree/master/0898-transpose-matrix) |
+| [1525-queries-on-a-permutation-with-key](https://github.com/Lahari-v/leet/tree/master/1525-queries-on-a-permutation-with-key) |
 ## Counting
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Lahari-v/leet/tree/master/1511-count-number-of-teams) |
+| [1525-queries-on-a-permutation-with-key](https://github.com/Lahari-v/leet/tree/master/1525-queries-on-a-permutation-with-key) |
 ## Segment Tree
 |  |
 | ------- |
