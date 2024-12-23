@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Lahari-v/leet/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/Lahari-v/leet/tree/master/0978-valid-mountain-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Lahari-v/leet/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Lahari-v/leet/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Lahari-v/leet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/Lahari-v/leet/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
@@ -50,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Lahari-v/leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lahari-v/leet/tree/master/0349-intersection-of-two-arrays) |
 | [1256-rank-transform-of-an-array](https://github.com/Lahari-v/leet/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Lahari-v/leet/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Lahari-v/leet/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Lahari-v/leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lahari-v/leet/tree/master/0349-intersection-of-two-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Lahari-v/leet/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Lahari-v/leet/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/Lahari-v/leet/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/Lahari-v/leet/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Lahari-v/leet/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -83,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Lahari-v/leet/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Lahari-v/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/Lahari-v/leet/tree/master/0941-sort-array-by-parity) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Lahari-v/leet/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
 | ------- |
