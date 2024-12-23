@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Lahari-v/leet/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Lahari-v/leet/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Lahari-v/leet/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Lahari-v/leet/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Lahari-v/leet/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Lahari-v/leet/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lahari-v/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -114,11 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Lahari-v/leet/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Lahari-v/leet/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/Lahari-v/leet/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Lahari-v/leet/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Lahari-v/leet/tree/master/0898-transpose-matrix) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/Lahari-v/leet/tree/master/1525-queries-on-a-permutation-with-key) |
 ## Counting
