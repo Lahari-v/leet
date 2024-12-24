@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Lahari-v/leet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Lahari-v/leet/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Lahari-v/leet/tree/master/0349-intersection-of-two-arrays) |
+| [0696-count-binary-substrings](https://github.com/Lahari-v/leet/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/Lahari-v/leet/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/Lahari-v/leet/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Lahari-v/leet/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Lahari-v/leet/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Lahari-v/leet/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lahari-v/leet/tree/master/0387-first-unique-character-in-a-string) |
+| [0696-count-binary-substrings](https://github.com/Lahari-v/leet/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/Lahari-v/leet/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Lahari-v/leet/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## String Matching
