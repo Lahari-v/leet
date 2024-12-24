@@ -4,7 +4,7 @@ public:
         unordered_map<int, int> map;
         for(int i=0; i<s.size(); i++) {
             if(s[i] >= 'a' && s[i] <= 'z')
-                map[s[i] - 'a']++;
+                map[s[i] - 'a' + 26]++;
             if(s[i] >= 'A' && s[i] <= 'Z')
                 map[s[i] - 'A']++;
         }
