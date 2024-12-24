@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Lahari-v/leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lahari-v/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Lahari-v/leet/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Lahari-v/leet/tree/master/0387-first-unique-character-in-a-string) |
 | [1256-rank-transform-of-an-array](https://github.com/Lahari-v/leet/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Lahari-v/leet/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Binary Search
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Lahari-v/leet/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Lahari-v/leet/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Lahari-v/leet/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lahari-v/leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Lahari-v/leet/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/Lahari-v/leet/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Lahari-v/leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/Lahari-v/leet/tree/master/0874-backspace-string-compare) |
 ## String Matching
 |  |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Lahari-v/leet/tree/master/0874-backspace-string-compare) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Lahari-v/leet/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
