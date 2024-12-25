@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/Lahari-v/leet/tree/master/1511-count-number-of-teams) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/Lahari-v/leet/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Lahari-v/leet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1547-destination-city](https://github.com/Lahari-v/leet/tree/master/1547-destination-city) |
 | [1603-running-sum-of-1d-array](https://github.com/Lahari-v/leet/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Lahari-v/leet/tree/master/0409-longest-palindrome) |
 | [1256-rank-transform-of-an-array](https://github.com/Lahari-v/leet/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Lahari-v/leet/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1547-destination-city](https://github.com/Lahari-v/leet/tree/master/1547-destination-city) |
 ## Binary Search
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Lahari-v/leet/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/Lahari-v/leet/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Lahari-v/leet/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1547-destination-city](https://github.com/Lahari-v/leet/tree/master/1547-destination-city) |
 ## String Matching
 |  |
 | ------- |
