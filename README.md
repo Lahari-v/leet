@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Lahari-v/leet/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Lahari-v/leet/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Lahari-v/leet/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Lahari-v/leet/tree/master/0268-missing-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lahari-v/leet/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Lahari-v/leet/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/Lahari-v/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Lahari-v/leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lahari-v/leet/tree/master/0217-contains-duplicate) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Lahari-v/leet/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lahari-v/leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Lahari-v/leet/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Lahari-v/leet/tree/master/0151-reverse-words-in-a-string) |
