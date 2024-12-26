@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Lahari-v/leet/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Lahari-v/leet/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Lahari-v/leet/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Lahari-v/leet/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Lahari-v/leet/tree/master/0268-missing-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Lahari-v/leet/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lahari-v/leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/Lahari-v/leet/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Lahari-v/leet/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Lahari-v/leet/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Lahari-v/leet/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Lahari-v/leet/tree/master/0056-merge-intervals) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Lahari-v/leet/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Lahari-v/leet/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Lahari-v/leet/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Lahari-v/leet/tree/master/0074-search-a-2d-matrix) |
