@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Lahari-v/leet/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lahari-v/leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Lahari-v/leet/tree/master/0409-longest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/Lahari-v/leet/tree/master/0459-repeated-substring-pattern) |
 | [0696-count-binary-substrings](https://github.com/Lahari-v/leet/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/Lahari-v/leet/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Lahari-v/leet/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lahari-v/leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Lahari-v/leet/tree/master/0459-repeated-substring-pattern) |
 ## Stack
 |  |
 | ------- |
