@@ -6,18 +6,18 @@ public:
         for(int i=0; i<n; i++) {
             st.insert(nums[i]);
         }
-        int max_streak = 0;
-        for(int i=0; i<n; i++) {
-            int current_streak = 1;
-            int current_num = nums[i];
-            if(st.find(current_num - 1) == st.end()) {
-                while(st.find(current_num + 1) != st.end()) {
-                    current_streak++;
-                    current_num++;
+        int res = 0;
+        for(int num : nums) {
+            int curr_num = num;
+            int curr_streak = 1;
+            if(st.find(curr_num - 1) == st.end()) {
+                while(st.find(curr_num + 1) != st.end()) {
+                    curr_num++;
+                    curr_streak++;
                 }
-                max_streak = max(max_streak, current_streak);
+                res = max(res, curr_streak);
             }
         }
-        return max_streak;
+        return res;
     }
 };
