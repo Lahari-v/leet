@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lahari-v/leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Lahari-v/leet/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Lahari-v/leet/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Lahari-v/leet/tree/master/0416-partition-equal-subset-sum) |
 | [1250-longest-common-subsequence](https://github.com/Lahari-v/leet/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Lahari-v/leet/tree/master/1511-count-number-of-teams) |
 ## Memoization
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Lahari-v/leet/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Lahari-v/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Lahari-v/leet/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Lahari-v/leet/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/Lahari-v/leet/tree/master/0493-reverse-pairs) |
 | [0605-can-place-flowers](https://github.com/Lahari-v/leet/tree/master/0605-can-place-flowers) |
 | [0898-transpose-matrix](https://github.com/Lahari-v/leet/tree/master/0898-transpose-matrix) |
