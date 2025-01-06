@@ -10,18 +10,17 @@
  */
 class Solution {
 public:
-    ListNode* rotateRight(ListNode* head, int k) {
-        if(head == NULL || head->next == NULL || k == 0)
+    ListNode* rotateRight(ListNode* head, int k) { 
+        if(head == NULL || head->next == NULL)
             return head;
-        
-        int n = 1;
         ListNode* curr = head;
+        int n = 1;
         while(curr->next != NULL) {
-            n++;
             curr = curr->next;
+            n++;
         }
         curr->next = head;
-        k = k % n;
+        k %= n;
         int moves = n - k;
         curr = head;
         for(int i=1; i<moves; i++) {
