@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Lahari-v/leet/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Lahari-v/leet/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Lahari-v/leet/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/Lahari-v/leet/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Lahari-v/leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lahari-v/leet/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Lahari-v/leet/tree/master/0229-majority-element-ii) |
@@ -282,4 +283,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Lahari-v/leet/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Lahari-v/leet/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
