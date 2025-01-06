@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Lahari-v/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Lahari-v/leet/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Lahari-v/leet/tree/master/0416-partition-equal-subset-sum) |
+| [0485-max-consecutive-ones](https://github.com/Lahari-v/leet/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Lahari-v/leet/tree/master/0493-reverse-pairs) |
 | [0605-can-place-flowers](https://github.com/Lahari-v/leet/tree/master/0605-can-place-flowers) |
 | [0898-transpose-matrix](https://github.com/Lahari-v/leet/tree/master/0898-transpose-matrix) |
