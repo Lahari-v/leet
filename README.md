@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Lahari-v/leet/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Lahari-v/leet/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Lahari-v/leet/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Lahari-v/leet/tree/master/0064-minimum-path-sum) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lahari-v/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Lahari-v/leet/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lahari-v/leet/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Lahari-v/leet/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Lahari-v/leet/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Lahari-v/leet/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Lahari-v/leet/tree/master/0051-n-queens) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lahari-v/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lahari-v/leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Lahari-v/leet/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Lahari-v/leet/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Lahari-v/leet/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Lahari-v/leet/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lahari-v/leet/tree/master/0088-merge-sorted-array) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Lahari-v/leet/tree/master/0042-trapping-rain-water) |
 | [0874-backspace-string-compare](https://github.com/Lahari-v/leet/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Lahari-v/leet/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Queue
@@ -284,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Lahari-v/leet/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Lahari-v/leet/tree/master/0138-copy-list-with-random-pointer) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Lahari-v/leet/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
