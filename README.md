@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Lahari-v/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Lahari-v/leet/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Lahari-v/leet/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/Lahari-v/leet/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Lahari-v/leet/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Lahari-v/leet/tree/master/0493-reverse-pairs) |
 | [0605-can-place-flowers](https://github.com/Lahari-v/leet/tree/master/0605-can-place-flowers) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Lahari-v/leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lahari-v/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Lahari-v/leet/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Lahari-v/leet/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/Lahari-v/leet/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/Lahari-v/leet/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Lahari-v/leet/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Lahari-v/leet/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Lahari-v/leet/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lahari-v/leet/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Lahari-v/leet/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/Lahari-v/leet/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/Lahari-v/leet/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/Lahari-v/leet/tree/master/0941-sort-array-by-parity) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Lahari-v/leet/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lahari-v/leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Lahari-v/leet/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/Lahari-v/leet/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Lahari-v/leet/tree/master/0605-can-place-flowers) |
 ## Divide and Conquer
 |  |
