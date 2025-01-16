@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Lahari-v/leet/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Lahari-v/leet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Lahari-v/leet/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Lahari-v/leet/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Lahari-v/leet/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Lahari-v/leet/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Lahari-v/leet/tree/master/0189-rotate-array) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Lahari-v/leet/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Lahari-v/leet/tree/master/0060-permutation-sequence) |
 ## Combinatorics
 |  |
 | ------- |
