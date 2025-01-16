@@ -1,19 +1,19 @@
 class Solution {
 public:
-    void recurPermute(int index, vector<int>& nums, vector<vector<int>>& res) {
-        if(index == nums.size()) {
+    void solve(int idx, vector<vector<int>>& res, vector<int>& nums) {
+        if(idx == nums.size()) {
             res.push_back(nums);
             return;
         }
-        for(int i=index; i<nums.size(); i++) {
-            swap(nums[i], nums[index]);
-            recurPermute(index+1, nums, res);
-            swap(nums[i], nums[index]);
+        for(int i = idx; i<nums.size(); i++) {
+            swap(nums[i], nums[idx]);
+            solve(idx+1, res, nums);
+            swap(nums[i], nums[idx]);
         }
     }
     vector<vector<int>> permute(vector<int>& nums) {
         vector<vector<int>> res;
-        recurPermute(0, nums, res);
+        solve(0, res, nums);
         return res;
     }
 };
