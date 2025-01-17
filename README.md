@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lahari-v/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Lahari-v/leet/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lahari-v/leet/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Lahari-v/leet/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Lahari-v/leet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Lahari-v/leet/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Lahari-v/leet/tree/master/0042-trapping-rain-water) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Lahari-v/leet/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lahari-v/leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Lahari-v/leet/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/Lahari-v/leet/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Lahari-v/leet/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Lahari-v/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Lahari-v/leet/tree/master/0138-copy-list-with-random-pointer) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Lahari-v/leet/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Lahari-v/leet/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Lahari-v/leet/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Lahari-v/leet/tree/master/0064-minimum-path-sum) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Lahari-v/leet/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Lahari-v/leet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Lahari-v/leet/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Lahari-v/leet/tree/master/0046-permutations) |
