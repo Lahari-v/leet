@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Lahari-v/leet/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Lahari-v/leet/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Lahari-v/leet/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Lahari-v/leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Lahari-v/leet/tree/master/0605-can-place-flowers) |
 | [0898-transpose-matrix](https://github.com/Lahari-v/leet/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/Lahari-v/leet/tree/master/0941-sort-array-by-parity) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Lahari-v/leet/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Lahari-v/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Lahari-v/leet/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Lahari-v/leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Lahari-v/leet/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
