@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Lahari-v/leet/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Lahari-v/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Lahari-v/leet/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Lahari-v/leet/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Lahari-v/leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lahari-v/leet/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Lahari-v/leet/tree/master/0229-majority-element-ii) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Lahari-v/leet/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Lahari-v/leet/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Lahari-v/leet/tree/master/0146-lru-cache) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -332,6 +334,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Lahari-v/leet/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Lahari-v/leet/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Lahari-v/leet/tree/master/0232-implement-queue-using-stacks) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Lahari-v/leet/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
