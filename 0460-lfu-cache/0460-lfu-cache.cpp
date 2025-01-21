@@ -1,16 +1,12 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Node {
 public:
     int key, value, cnt;
     Node* prev;
     Node* next;
-
-    Node(int _key, int _value) {
-        key = _key;
-        value = _value;
-        cnt = 1; // Initialize frequency to 1
+    Node(int key, int value) {
+        this->key = key;
+        this->value = value;
+        cnt = 1;
         prev = nullptr;
         next = nullptr;
     }
@@ -23,108 +19,99 @@ public:
     Node* tail;
 
     List() {
-        head = new Node(0, 0); // Dummy head
-        tail = new Node(0, 0); // Dummy tail
+        size = 0;
+        head = new Node(0, 0);
+        tail = new Node(0, 0);
         head->next = tail;
         tail->prev = head;
-        size = 0; // Initially, the list is empty
     }
-
-    void addFront(Node* node) {
+    
+    void insert(Node* node) {
         Node* temp = head->next;
-        node->next = temp;
-        node->prev = head;
         head->next = node;
+        node->prev = head;
+        node->next = temp;
         temp->prev = node;
         size++;
     }
 
-    void removeNode(Node* delNode) {
-        Node* delPrev = delNode->prev;
-        Node* delNext = delNode->next;
-        delPrev->next = delNext;
-        delNext->prev = delPrev;
+    void remove(Node* node) {
+        Node* prevNode = node->prev;
+        Node* nextNode = node->next;
+        prevNode->next = nextNode;
+        nextNode->prev = prevNode;
         size--;
     }
 };
 
 class LFUCache {
-private:
-    map<int, Node*> keynode;          // Map key to Node
-    map<int, List*> freqlistmap;      // Map frequency to List of nodes
-    int maxsizecache;                 // Maximum capacity of the cache
-    int minfreq;                      // Minimum frequency of nodes in the cache
-    int currsize;                     // Current size of the cache
-
-    void updateFreqListMap(Node* node) {
-        // Remove node from its current frequency list
-        keynode.erase(node->key);
-        freqlistmap[node->cnt]->removeNode(node);
-
-        // Update minimum frequency if necessary
-        if (node->cnt == minfreq && freqlistmap[node->cnt]->size == 0) {
-            minfreq++;
-        }
-
-        // Add node to the next higher frequency list
-        List* nextHigherFreqList = new List();
-        if (freqlistmap.find(node->cnt + 1) != freqlistmap.end()) {
-            nextHigherFreqList = freqlistmap[node->cnt + 1];
-        }
-        node->cnt++; // Increment frequency
-        nextHigherFreqList->addFront(node);
-        freqlistmap[node->cnt] = nextHigherFreqList;
-        keynode[node->key] = node;
-    }
-
 public:
+    int maxsizeCache, currsize, minfreq;
+    map<int, Node*> keyNode;
+    map<int, List*> freqList; 
     LFUCache(int capacity) {
-        maxsizecache = capacity;
+        maxsizeCache = capacity;
         minfreq = 0;
         currsize = 0;
     }
-
+    
     int get(int key) {
-        if (keynode.find(key) != keynode.end()) {
-            Node* node = keynode[key];
+        if(keyNode.find(key) != keyNode.end()) {
+            Node* node = keyNode[key];
             int val = node->value;
-            updateFreqListMap(node);
+            updateFreqlist(node);
             return val;
         }
-        return -1; // Key not found
+        return -1;
     }
-
+    
     void put(int key, int value) {
-        if (maxsizecache == 0) {
-            return; // Cache has no capacity
-        }
-
-        if (keynode.find(key) != keynode.end()) {
-            // Update the value of the existing node
-            Node* node = keynode[key];
+        if(maxsizeCache == 0)
+            return;
+        if(keyNode.find(key) != keyNode.end()) {
+            Node* node = keyNode[key];
             node->value = value;
-            updateFreqListMap(node);
-        } else {
-            // Check if the cache is full
-            if (currsize == maxsizecache) {
-                // Evict the least frequently used node
-                List* list = freqlistmap[minfreq];
-                keynode.erase(list->tail->prev->key);
-                freqlistmap[minfreq]->removeNode(list->tail->prev);
+            updateFreqlist(node);
+        }
+        else {
+            if(maxsizeCache == currsize) {
+                List* list = freqList[minfreq];
+                keyNode.erase(list->tail->prev->key);
+                freqList[minfreq]->remove(list->tail->prev);
                 currsize--;
             }
-
-            // Add the new node
             currsize++;
-            minfreq = 1; // Reset minimum frequency to 1
+            minfreq = 1;
             List* list = new List();
-            if (freqlistmap.find(minfreq) != freqlistmap.end()) {
-                list = freqlistmap[minfreq];
-            }
+            if(freqList.find(minfreq) != freqList.end()) 
+                list = freqList[minfreq];
             Node* node = new Node(key, value);
-            list->addFront(node);
-            keynode[key] = node;
-            freqlistmap[minfreq] = list;
+            list->insert(node);
+            keyNode[key] = node;
+            freqList[minfreq] = list;
         }
     }
+
+    void updateFreqlist(Node* node) {
+        keyNode.erase(node->key);
+        freqList[node->cnt]->remove(node);
+        if(minfreq == node->cnt && freqList[node->cnt]->size == 0) {
+            minfreq++;
+        }
+        List* nextHigherFreqList = new List();
+        if(freqList.find(node->cnt + 1) != freqList.end()) {
+            nextHigherFreqList = freqList[node->cnt + 1];
+        }
+        node->cnt++;
+        nextHigherFreqList->insert(node);
+        keyNode[node->key] = node;
+        freqList[node->cnt] = nextHigherFreqList;
+    }
 };
+
+/**
+ * Your LFUCache object will be instantiated and called as such:
+ * LFUCache* obj = new LFUCache(capacity);
+ * int param_1 = obj->get(key);
+ * obj->put(key,value);
+ */
