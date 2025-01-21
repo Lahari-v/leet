@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Lahari-v/leet/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lahari-v/leet/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Lahari-v/leet/tree/master/0409-longest-palindrome) |
+| [0460-lfu-cache](https://github.com/Lahari-v/leet/tree/master/0460-lfu-cache) |
 | [1256-rank-transform-of-an-array](https://github.com/Lahari-v/leet/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Lahari-v/leet/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1547-destination-city](https://github.com/Lahari-v/leet/tree/master/1547-destination-city) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Lahari-v/leet/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Lahari-v/leet/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Lahari-v/leet/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Lahari-v/leet/tree/master/0460-lfu-cache) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -337,8 +339,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Lahari-v/leet/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Lahari-v/leet/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Lahari-v/leet/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/Lahari-v/leet/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Lahari-v/leet/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Lahari-v/leet/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
