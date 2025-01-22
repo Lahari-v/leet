@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Lahari-v/leet/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/Lahari-v/leet/tree/master/0503-next-greater-element-ii) |
 | [0874-backspace-string-compare](https://github.com/Lahari-v/leet/tree/master/0874-backspace-string-compare) |
+| [0937-online-stock-span](https://github.com/Lahari-v/leet/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Lahari-v/leet/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Queue
 |  |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Lahari-v/leet/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Lahari-v/leet/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/Lahari-v/leet/tree/master/0937-online-stock-span) |
 ## Design
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Lahari-v/leet/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Lahari-v/leet/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/Lahari-v/leet/tree/master/0460-lfu-cache) |
+| [0937-online-stock-span](https://github.com/Lahari-v/leet/tree/master/0937-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -358,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Lahari-v/leet/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Lahari-v/leet/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
