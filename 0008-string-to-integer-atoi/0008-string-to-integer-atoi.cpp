@@ -17,7 +17,7 @@ public:
         while(i<n && isdigit(s[i])) {
             int digit = s[i] - '0';
 
-            if(res > (INT_MAX - digit) / 10) {
+            if(res > (INT_MAX - digit)/10) {
                 if(sign == 1)
                     return INT_MAX;
                 else 
