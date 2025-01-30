@@ -15,24 +15,24 @@ public:
         if(!root)
             return 0;
         int res = 0;
-        queue<pair<TreeNode*, long long>> q;
+        queue<pair<TreeNode*, int>> q;
         q.push({root, 0});
         while(!q.empty()) {
             int size = q.size();
             long long min = q.front().second;
             long long first, last;
             for(int i=0; i<size; i++) {
-                long long curr_id = q.front().second - min;
-                TreeNode* node = q.front().first; 
-                q.pop(); 
+                long long curr_idx = q.front().second - min;
+                TreeNode* node = q.front().first;
+                q.pop();
                 if(i==0)
-                    first = curr_id;
+                    first = curr_idx;
                 if(i==size-1)
-                    last = curr_id;
+                    last = curr_idx;
                 if(node->left)
-                    q.push({node->left, 2*curr_id+1});
+                    q.push({node->left, 2*curr_idx+1});
                 if(node->right)
-                    q.push({node->right, 2*curr_id+2});
+                    q.push({node->right, 2*curr_idx+2});
             }
             res = max((long long)res, last-first+1);
         }
