@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Lahari-v/leet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Lahari-v/leet/tree/master/0605-can-place-flowers) |
 | [0898-transpose-matrix](https://github.com/Lahari-v/leet/tree/master/0898-transpose-matrix) |
+| [0907-koko-eating-bananas](https://github.com/Lahari-v/leet/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/Lahari-v/leet/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/Lahari-v/leet/tree/master/0978-valid-mountain-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Lahari-v/leet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Lahari-v/leet/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Lahari-v/leet/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Lahari-v/leet/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/Lahari-v/leet/tree/master/0907-koko-eating-bananas) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Lahari-v/leet/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
