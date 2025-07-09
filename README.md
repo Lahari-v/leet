@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/Lahari-v/leet/tree/master/0185-department-top-three-salaries) |
+| [0197-rising-temperature](https://github.com/Lahari-v/leet/tree/master/0197-rising-temperature) |
 | [0596-classes-more-than-5-students](https://github.com/Lahari-v/leet/tree/master/0596-classes-more-than-5-students) |
 | [1182-game-play-analysis-iv](https://github.com/Lahari-v/leet/tree/master/1182-game-play-analysis-iv) |
 | [1338-queries-quality-and-percentage](https://github.com/Lahari-v/leet/tree/master/1338-queries-quality-and-percentage) |
