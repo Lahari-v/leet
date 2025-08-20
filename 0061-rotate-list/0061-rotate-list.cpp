@@ -10,24 +10,30 @@
  */
 class Solution {
 public:
-    ListNode* rotateRight(ListNode* head, int k) { 
-        if(head == NULL || head->next == NULL)
+    ListNode* rotateRight(ListNode* head, int k) {
+        if(!head || !head->next)
             return head;
-        ListNode* curr = head;
-        int n = 1;
-        while(curr->next != NULL) {
-            curr = curr->next;
-            n++;
+        ListNode* temp = head;
+        int cnt = 0;
+        while(temp) {
+            cnt++;
+            temp = temp->next;
         }
-        curr->next = head;
-        k %= n;
-        int moves = n - k;
-        curr = head;
-        for(int i=1; i<moves; i++) {
-            curr = curr->next;
+        k = k % cnt; 
+        if(k==0) 
+            return head;
+        int moves = cnt - k - 1; 
+        temp = head;
+        while(moves--) {
+            temp = temp->next;
         }
-        ListNode* newHead = curr->next;
-        curr->next = NULL;
+        ListNode* newHead = temp->next;
+        temp->next = nullptr; 
+        temp = newHead;
+        while(temp->next) {
+            temp = temp->next;
+        }
+        temp->next = head;
         return newHead;
     }
 };
