@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Lahari-v/leet/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Lahari-v/leet/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Lahari-v/leet/tree/master/0416-partition-equal-subset-sum) |
+| [1143-longest-common-subsequence](https://github.com/Lahari-v/leet/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Lahari-v/leet/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Lahari-v/leet/tree/master/1511-count-number-of-teams) |
 ## Memoization
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Lahari-v/leet/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/Lahari-v/leet/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Lahari-v/leet/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Lahari-v/leet/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Lahari-v/leet/tree/master/1250-longest-common-subsequence) |
 | [1547-destination-city](https://github.com/Lahari-v/leet/tree/master/1547-destination-city) |
 ## String Matching
