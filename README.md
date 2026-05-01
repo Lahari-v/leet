@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Lahari-v/leet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Lahari-v/leet/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Lahari-v/leet/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Lahari-v/leet/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Lahari-v/leet/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Lahari-v/leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lahari-v/leet/tree/master/0283-move-zeroes) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Lahari-v/leet/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/Lahari-v/leet/tree/master/1603-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
